@@ -1,7 +1,9 @@
 # JS-GPU-Shaders
 Simples projeto para uso de GPU em JavaScript utilizando shaders
 
-https://github.com/user-attachments/assets/26507f54-10a6-40de-b8f2-97b722e8414e
+
+https://github.com/user-attachments/assets/3623be29-0519-4522-914e-3dca2f92540d
+
 
 O codigo esta rodando diretamente na GPU, possibilitando a renderização de ser extremamente rápida, 
 
